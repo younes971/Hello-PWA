@@ -48,3 +48,11 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# Week 5 Expo App
+
+App link:
+
+https://expo.dev/accounts/lartiste/projects/my-app/updates/201aaa92-4158-42b1-b862-c99c7e0dfd64
+
+
